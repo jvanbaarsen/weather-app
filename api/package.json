@@ -1,0 +1,9 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@redwoodjs/api": "^0.25.0",
+    "openweather-apis": "^4.4.1"
+  }
+}
